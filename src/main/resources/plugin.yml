@@ -2,3 +2,6 @@ name: LavaRisingTest
 version: '${project.version}'
 main: lavarisingtest.lavarisingtest.LavaRisingTest
 api-version: 1.19
+commands:
+  createworld:
+    default: op
